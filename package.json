@@ -1,0 +1,30 @@
+{
+  "name": "teste-pratico",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "jardel simao",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.6.0",
+    "angular-ui-router": "^0.3.2",
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-add-src": "^0.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-install": "^0.6.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "ng-mask": "^3.1.1"
+  }
+}
