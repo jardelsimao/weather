@@ -1,11 +1,18 @@
 # README #
 
-Para instalar este script utilize o comando no prompt: 
+Com o nodejs previamente instalado.
+
+Utilizando prompt digite os seguintes comandos: 
 
 npm install
 
-Em seguida:
+Para executar os testes unitários
+
+gulp test
+
+Para iniciar a aplicação:
 
 gulp
 
-Com o nodejs previamente instalado.
+
+Aplicação desenvolvida para fins de avaliação, todas funcionalidades são básicas e previamente configuradas para servir de base de desenvolvimento.
